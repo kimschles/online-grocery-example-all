@@ -1,0 +1,17 @@
+{
+  "name": "online-grocery-example-app",
+  "version": "1.0.0",
+  "description": "A sample application to help you learn more about Temporal.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Kim Schlesinger",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
